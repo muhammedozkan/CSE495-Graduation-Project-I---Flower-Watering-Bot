@@ -1,0 +1,2 @@
+mylib.c:9:9:string_compare	32	static
+mylib.c:23:6:Message_handler	16	static
